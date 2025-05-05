@@ -17,7 +17,7 @@ A RESTful API for an automated car parking system built with NestJS and TypeScri
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/car-parking-system.git
+git clone https://github.com/mudit404/car-parking-system
 
 # Navigate to the project directory
 cd car-parking-system
